@@ -1,7 +1,5 @@
 # Pan-Tilt Control System (AAU UAV Tracking Project)
 
-**Department of Electronic Systems, Aalborg University (AAU)**
-
 ## Overview
 
 This ROS 2 package, `pan_tilt_control`, is the aiming subsystem for a multi-sensor UAV tracking architecture. It controls a custom 2-DOF turret designed to align a Conical LiDAR with incoming drones based on 3D coordinates provided by a particle filter (fusing Acoustic DoA and LiDAR data).
